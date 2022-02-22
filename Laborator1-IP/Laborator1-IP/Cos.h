@@ -54,7 +54,7 @@ public:
 			cout << list[i]->name << ' ';
 		}
 		cout << endl;
-	}
+	};
 private:
 	Object** list;
 	int* counts;
