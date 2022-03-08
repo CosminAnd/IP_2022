@@ -1,0 +1,12 @@
+
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(ÁÆ¢ıÿÿÿÿ
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(¼Óœ—
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(›ÁüĞ
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(·‚àˆ
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(Ú’Ÿè
+‚
+java:S1319"gThe type of "baskets" should be an interface such as "List" rather than the implementation "ArrayList".(¡ş¥”úÿÿÿÿ
+†
+java:S1319#"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(û×¸œ
+R
+java:S4973."<Strings and Boxed types should be compared using "equals()".(Èë±ó
