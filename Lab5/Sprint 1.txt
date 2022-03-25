@@ -1,0 +1,17 @@
+Sprint 1:
+	- Diagrams
+		-- UML diagrams
+		-- C4 diagrams
+	- Management
+		-- Definition of Done Negotiation
+		-- Product Backlog
+		-- Research in the ML field
+		-- Analyse Competitors
+		-- System Analysis
+			--- Identify Features
+	- Model Creation
+		-- Model Identification for Parsing
+		-- DataLoader
+		-- ModelBuilder
+		-- ModelTrainer
+		-- ModelEvaluator 

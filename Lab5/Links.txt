@@ -1,0 +1,6 @@
+Link Trello: https://trello.com/b/qpozQWqq/ml
+Link Docs: https://docs.google.com/document/d/1ic9RONCn1CEnupuvM6h4FaAvBYYXBxtbL_sgQMzFckA/edit
+Link GitHub: https://github.com/smocgeorgemarian/Movie-recommendation_ML
+Link UML Diagram: https://drive.google.com/file/d/1mWEAscbjHxYBcSfWRYkLrDko84oh8Q0O/view
+Link C4 Diagram: https://drive.google.com/file/d/1hnaUblrZUHH4Dg5OCBAdEMzP-B9RISQR/view
+
